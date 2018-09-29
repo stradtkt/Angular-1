@@ -23,9 +23,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/theme/assets/css/bootstrap.min.css",
+              "src/assets/theme/assets/css/now-ui-kit.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/theme/assets/js/core/jquery.min.js",
+              "src/assets/theme/assets/js/core/popper.min.js",
+              "src/assets/theme/assets/js/core/bootstrap.min.js",
+              "src/assets/theme/assets/js/now-ui-kit.min.js"
+            ]
           },
           "configurations": {
             "production": {
